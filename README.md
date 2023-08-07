@@ -1,0 +1,2 @@
+With the above code snippet i have added a custom logic to the cart upsells. If the user hasn't added the upsell of a product in the cart there appears a warning message. In my case i have used a product category were i add
+packaging products like bottles and caps. If the user adds the bottle to the cart without it's upsell cap product the message is displayed so the user adds the cap for the bottle if he/she wants.
